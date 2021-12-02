@@ -1,0 +1,28 @@
+.root_form {
+    background-color: #FFFFFF;
+    height: 523px;
+    margin: 168px 0 124px 0;
+}
+
+.row_form_first {
+    display: flex;
+    justify-content: center;
+}
+
+.h2_form {
+    padding: 76px 0 32px 0;
+}
+
+.blue {
+    color: #018FDE;
+}
+
+.input_form {
+    background-color: #eef3fc;
+}
+
+.button_form {
+    display: flex;
+    justify-content: center;
+    padding: 24px 0 72px 0;
+}

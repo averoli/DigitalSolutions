@@ -1,0 +1,40 @@
+.h3_footer {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    text-align: left;
+    color: #FFFFFF;
+    padding: 20px 0 15px 0;
+}
+
+@media (max-width: 768px) {
+    .h3_footer {
+        font-size: 18px;
+        line-height: 22px;
+        font-variant: small-caps;
+    }
+}
+
+@media (max-width: 576px) {
+    .h3_footer {
+        font-size: 16px;
+        line-height: 20px;
+        font-variant: small-caps;
+    }
+}
+
+.text_footer {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #DBDBDB;
+}
+
+@media (max-width: 576px) {
+    .text_footer {
+        font-size: 12px;
+        line-height: 20px;
+    }
+}

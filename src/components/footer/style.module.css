@@ -1,0 +1,35 @@
+.root_footer {
+    background-color: #121212;
+}
+
+.wrap_footer {
+    padding: 60px;
+}
+
+@media (max-width: 576px) {
+    .wrap_footer {
+        padding: 40px 0 40px 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .wrap_col {
+        padding-left: 36px;
+    }
+}
+
+@media (max-width: 768px) {
+    .wrap_col {
+        padding-left: 0;
+    }
+}
+
+.wrap_cols {
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    .tel_block {
+        padding: 0;
+    }
+}
